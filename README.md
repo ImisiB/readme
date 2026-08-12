@@ -2,7 +2,7 @@
 
 My name is Basit Bailey, I am a web developer
 # 💫😎About Me:
-Hello , I'm Imisi Bailey, a 12 year old developer. I started coding at the age of 8, I am learning python, HTML, CSS & javascript. I've created about 54 projects and i can't wait to add more to them!. I'm ready to do what it takes!
+Hello , I'm Imisi Bailey, a 12 year old developer. I started coding at the age of 8, I am learning python, HTML, CSS & javascript. I've created about 67😎 projects and i can't wait to add more to them!. I'm ready to do what it takes!
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
